@@ -1,5 +1,5 @@
-api_id = 26765615
-api_hash = "dc9335059a80b3c8753d26e36d9e28f4"
-bot_token = "6998818558:AAF1jHqX345vVgeoHo3NOcq-zmmaylebEew"
-AUTH = 6389088397
-#Bot Username = "Choudhary9360_bot"
+api_id = 20491966
+api_hash = "aa1c8f86db7f78fe9bfdd77bb48a5b23"
+bot_token = "7100776821:AAFBugclqJ28orOs-Ax9TPCjbcdXVSKuonc"
+AUTH = 7168441486
+#Bot Username = "hackedevbot"
